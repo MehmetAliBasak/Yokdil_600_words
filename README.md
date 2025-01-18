@@ -1,3 +1,3 @@
 # yokdil_app
 
-Flutter Tokdil 600 words app.
+Flutter Yokdil 600 words app.
